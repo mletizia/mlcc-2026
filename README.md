@@ -1,4 +1,4 @@
-# mlcc
+# Machine Learning Crash Course 2026
 
 Material for MLCC 2026
 
